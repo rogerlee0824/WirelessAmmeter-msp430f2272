@@ -1,0 +1,101 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=1779125707
+[State Storage]
+Control Register=0
+[Sequencer]
+Control Register=0
+NextState0=0
+NextState1=0
+[Action Register]
+Break=0
+State Storage=0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Breakpoints2]
+Count=0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\rf\cc112x_easy_link_rx.c}.180.14" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$\src\app\main_ammeter.c}.89.13" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "{F:\Work\Part-time\Smart Ammeter with Wireless\Bluetooth_driver - New\src\app\main_ammeter.c}.354.8" 0 0 0 0 "" 0 ""
+Bp3=_ "STD_CODE" "{F:\Work\Part-time\Smart Ammeter with Wireless\Bluetooth_driver - New\src\app\main_ammeter.c}.107.5" 0 0 0 0 "" 0 ""
+Bp4=_ "STD_CODE" "{$PROJ_DIR$\src\app\main_ammeter.c}.98.17" 0 0 0 0 "" 0 ""
+Bp5=_ "STD_CODE" "{$PROJ_DIR$\src\app\main_reader.c}.78.3" 1 0 0 0 "" 0 ""
+Count=6
+[FET]
+Clock mode=14
+Extended Clock mode=-1
+Secure Password=
+Extended Clock Control Enable=1
+Advanced Extended Clock Control=0
+Emulation mode=0
+Free running=0
+Shutting Down=3
+[Memory Dump]
+Start address=
+Lenghth=
+Address info=0
+Format=0
+Dump registers=0
+PC=0
+SP=0
+SR=0
+all registers=0
+File name=
+[Aliases]
+A0=_ "C:\Users\Daniel\Desktop\Bluetooth_driver - New\Bluetooth_driver - New\src\app\main_reader.c" ""
+A1=_ "F:\Work\Part-time\Smart Ammeter with Wireless\Bluetooth_driver\app\init.c" ""
+A2=_ "G:\Roger's Files\Smart Ammeter with Wireless\Bluetooth_driver\spi\hal_spi_rf_trxeb.c" ""
+Count=3
+SuppressDialog=1
